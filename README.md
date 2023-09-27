@@ -27,10 +27,7 @@ uses: actions/hello-world-docker-action@v1
 with:
   who-to-greet: 'DockerGitTorchGeo'
   
-References:
+## References:
+
 https://github.com/sabman/torchgeo-docker/blob/main/README.md
 https://docs.github.com/en/github-ae@latest/actions/creating-actions/creating-a-docker-container-action
-
-Example Usage:
-
-actions/hello-world-docker-action@v1 with: who-to-greet: 'DockerGitTorchGeo'
